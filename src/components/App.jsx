@@ -92,5 +92,3 @@ export default class App extends Component {
     );
   }
 }
-const time = new Date().toLocaleTimeString();
-console.log(time);
